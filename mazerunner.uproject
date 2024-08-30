@@ -12,11 +12,11 @@
 			]
 		},
 		{
-			"Name": "RigLogic",
+			"Name": "HDRIBackdrop",
 			"Enabled": true
 		},
 		{
-			"Name": "HairStrands",
+			"Name": "RigLogic",
 			"Enabled": true
 		},
 		{
@@ -37,6 +37,14 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
